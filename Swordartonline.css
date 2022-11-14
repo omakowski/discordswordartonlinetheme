@@ -1,7 +1,7 @@
 /**
 * @name Swordartonlinetheme
 * @author coinrock0827#4430
-* @version 1.0
+* @version 1.1
 * @description A Sword art online theme
 * @invite FdZhbjY
 * @source https://github.com/omakowski/discordswordartonlinetheme/
@@ -60,7 +60,7 @@
   /*
     Font Size
   */
-  --font-size: 150%;
+  --font-size: 100%;
 
   /*
     Mention colors
